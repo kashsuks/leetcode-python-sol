@@ -1,0 +1,3 @@
+#Exclude all files that are bloat
+
+.DS_Store
